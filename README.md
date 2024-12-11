@@ -24,8 +24,7 @@
    cd TrackNest
 
 ### Steps to Set Up the Project
-
-1. **Install the required dependencies:**
+1.**Install the required dependencies:**
    pip install -r requirements.txt
    
 2.**Apply migrations to set up the database:**

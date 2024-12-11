@@ -17,11 +17,11 @@
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/ritika710/TrackNest.git> 
 
 
 1. **Navigate to the project directory:**
-   cd tracknest
+   cd TrackNest
 
 ### Steps to Set Up the Project
 
